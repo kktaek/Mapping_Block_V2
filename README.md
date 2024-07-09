@@ -11,6 +11,8 @@
 - UCI Landsat Satellite
 - UCI Image Segmentation
 - Forest Cover Type
+- Higgs Boson
+- Poker Hand
 
 한계
 
